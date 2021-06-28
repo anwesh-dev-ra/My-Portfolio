@@ -8,7 +8,7 @@ This is a web-based HTML, CSS, and JavaScript based landing page template, fit f
 All 'visual' data can be easily modified.
 
 ##### Anwesh Sinha
-<a href="https://www.linkedin.com/in/anwesh-sinha-ba97691ab/">Free-CSS.com </a>
+<a href="https://www.linkedin.com/in/anwesh-sinha-ba97691ab/">Connect with me</a>
 
 
 
